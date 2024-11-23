@@ -2,4 +2,4 @@
 - 👋 Hi, I’m OatMeal
 - 🌱 I’m currently learning Secondary years 3
 - I'm currently living and born in Thailand and Yes! I'm Thai
-- My main projectis:https://anime-oatmeal.site/ or https://oatmealxxii.online (same website but First Domain and Second Domain)
+- My main projectis:https://anime-oatmeal.site/
