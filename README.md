@@ -1,4 +1,4 @@
-# Hello my name is Oat but my github is OatMealXXII
+# Hello my name is Oat
 - 👋 Hi, I’m OatMeal
 - 🌱 I’m currently 16 years old
 - I'm currently living and born in Thailand and Yes! I'm Thai <br /> <br />
