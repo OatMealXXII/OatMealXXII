@@ -36,7 +36,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/hlJh_aYUvYoAAAAC/anime-todays-menu-for-emiya-family.gif"  />
+<img align="right" height="300" src="https://media1.tenor.com/m/hlJh_aYUvYoAAAAC/anime-todays-menu-for-emiya-family.gif"  />
 
 ###
 
