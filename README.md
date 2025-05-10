@@ -54,6 +54,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/OatMealXXII/OatMealXXII/output/snake.svg" alt="Snake animation" />
 
 ###
