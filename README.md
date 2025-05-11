@@ -2,11 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OatMealXXII&theme=default&show_icons=true&hide_border=true&count_private=true" alt="OatMealXXII's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OatMealXXII&theme=default&show_icons=true&hide_border=true&layout=compact" alt="OatMealXXII's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=OatMealXXII&theme=default&hide_border=true" alt="OatMealXXII's GitHub Stats" />
-</div>
+  [<img src="https://github-readme-stats.vercel.app/api?username=OatMealXXII&theme=default&show_icons=true&hide_border=true&count_private=true" alt="OatMealXXII's GitHub Stats" />](https://github-readme-stats.vercel.app/api?username=OatMealXXII&theme=default&show_icons=true&hide_border=true&count_private=true)
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OatMealXXII&theme=default&show_icons=true&hide_border=true&layout=compact" alt="OatMealXXII's GitHub Stats" />](https://github-readme-stats.vercel.app/api/top-langs/?username=OatMealXXII&theme=default&show_icons=true&hide_border=true&layout=compact)
+  ![GitHub Stats](https://streak-stats.demolab.com?user=OatMealXXII&theme=default&hide_border=true)
 
 ###
 
