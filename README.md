@@ -1,6 +1,9 @@
 # 💫 About Me:
-🌱 I’m currently studying on IT<br>⚡ Fun fact : I'm Thai
+Hello, My name is OatMeal. I'm born in 2009
 
+# Support me ❤️
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/oatmealxxii) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/OatMeal22015) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/oatmealxxii) [![Donate_via_Stripe](https://img.shields.io/badge/Donate_via_Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/4gM9AU5SI2sge6s3KUbEA00)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Phongthep.Chotikansahakul) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@oatmealbreakfast01) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@oatmeal0011) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@OatMeal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oatbangping@gmail.com) 
@@ -18,8 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=OatMealXXII&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/oatmealxxii) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/OatMeal22015) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/oatmealxxii) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/OatMealXXII/OatMealXXII/output/snake.svg" alt="Snake animation" />
