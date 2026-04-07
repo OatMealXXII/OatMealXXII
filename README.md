@@ -19,6 +19,6 @@ Hello, My name is OatMeal. I'm born in 2009
 ![](https://github-profile-trophy.vercel.app/?username=OatMealXXII&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=OatMealXXII&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://count.getloli.com/get/@OatMealXXII?theme=gelbooru" alt="Moe Counter" />
 
 <img src="https://raw.githubusercontent.com/OatMealXXII/OatMealXXII/output/snake.svg" alt="Snake animation" />
